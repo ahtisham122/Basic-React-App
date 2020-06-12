@@ -14,10 +14,10 @@ const App = ({name, age}) => (
           <li><a href="https://www.piaic.org/">PIAIC</a></li>
         </ul>
         <ol>
-          <li><a href="">Item One</a></li>
-          <li><a href="">Item Two</a></li>
-          <li><a href="">Item Three</a></li>
-          <li><a href="">Item Four</a></li>
+          <li>Item One</li>
+          <li>Item Two</li>
+          <li>Item Three</li>
+          <li>Item Four</li>
         </ol>
       
     </div>
